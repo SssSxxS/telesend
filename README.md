@@ -1,6 +1,6 @@
 # Telesend
 
-Telesend is a lightweight Go library for sending messages via the Telegram Bot API. It provides a simple and efficient way to integrate Telegram messaging into your Go applications.
+A simple, zero-dependencies Go library for sending messages via the Telegram Bot API.
 
 ## Installation
 
